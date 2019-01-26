@@ -1,6 +1,7 @@
 # wameedh
 A website for wameedh association
 
-
-*counterputer: 
-Alaa Abdulrahman 
+# Contributers:
+*Rawan 
+* I'm Maryam
+* Alaa Abdulrahman 
