@@ -1,4 +1,9 @@
 # wameedh
 A website for wameedh association
 
-*amal
+# Contributers:
+* Rawan 
+* I'm Maryam
+* Alaa Abdulrahman 
+* contributor: Lana
+* amal
