@@ -1,4 +1,10 @@
 # wameedh
 A website for wameedh association
 
-*I am fawziah 
+# Contributers:
+* Rawan 
+* I'm Maryam
+* Alaa Abdulrahman 
+* contributor: Lana
+* amal
+* I am fawziah
